@@ -27,7 +27,7 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 ---
 
 ### 🗣 Courses Taught
-- Introduction to Statistical Data Analysis
+- [Introduction to Statistical Data Analysis](https://github.com/shellingman/Introduction-to-Statistical-Data-Analysis)
 - Applied Data Science
 - Data Visualization and Manipulation through Scripting
 - Regression for Applied Data Analysis
