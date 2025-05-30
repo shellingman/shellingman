@@ -30,7 +30,7 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 - [Introduction to Statistical Data Analysis](https://github.com/shellingman/Introduction-to-Statistical-Data-Analysis)
 - Applied Data Science
 - [Data Visualization and Manipulation through Scripting](https://github.com/shellingman/Data-Visualization-and-Manipulation-through-Scripting)
-- Regression for Applied Data Analysis
+- [Regression for Applied Data Analysis](https://github.com/shellingman/Regression-for-Applied-Data-Analysis)
 - Design for Data Science
 
 ---
