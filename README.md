@@ -53,4 +53,4 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 
 ---
 
-## Visitors:  ![Visitor Count](https://profile-counter.glitch.me/{shellingman}/count.svg)
+## ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shellingman.visitor-badge)
