@@ -37,11 +37,11 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 
 ### 🎓 Education
 
-- [Doctor of Philosophy](https://students.wlu.ca/programs/science/mathematical-and-statistical-modelling/index.html): Wilfrid Lauirer University (2018 - 2022)
-    - [Disstertation](https://scholars.wlu.ca/etd/2528/): Statistical models for decision-making in professional soccer
+- [Doctor of Philosophy](https://students.wlu.ca/programs/science/mathematical-and-statistical-modelling/index.html): Wilfrid Laurier University (2018 - 2022)
+    - [Dissertation](https://scholars.wlu.ca/etd/2528/): Statistical models for decision-making in professional soccer
 - [Master's](https://fis.vse.cz/english/about/about-the-programmes/economic-data-analysis/): Vysoká škola ekonomická v Praze (2016 - 2018)
   - [Thesis](https://vskp.vse.cz/english/73810_students-in-canada-and-the-czech-republic-socioeconomic-factors-and-their-impact??page=443): Students in Canada and the Czech Republic - socioeconomic factors and their impact
-- [Bacherlor's](https://www.daemen.edu/academics/college-arts-sciences-education/mathematics/mathematics): Daemen University (2009 - 2013)
+- [Bachelor's](https://www.daemen.edu/academics/college-arts-sciences-education/mathematics/mathematics): Daemen University (2009 - 2013)
 
 ---
 
