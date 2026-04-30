@@ -33,6 +33,7 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 - [Regression for Applied Data Analysis](https://github.com/shellingman/Regression-for-Applied-Data-Analysis)
 - [Design for Data Science](https://github.com/shellingman/Design-for-Data-Science/tree/main)
 - [Introduction to Statistics](https://github.com/shellingman/Introduction-to-Statistics/tree/main)
+- [Simulations for Modelling, Optimizing, and Analysis](https://github.com/shellingman/Simulations-for-Modeling-Optimizing-and-Analysis)
 
 ---
 
