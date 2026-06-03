@@ -51,7 +51,7 @@ Note: *Many of my ongoing projects are private due to data privacy and I will do
 
 
 
- [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/shellingman/shellingman)  [![Sean's Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingman&layout=donut&theme=vision-friendly-dark)](https://github.com/shellingman/shellingman)
+ [![Sean's GitHub stats](https://github-readme-stats2-git-main-shellingmans-projects.vercel.app/api?username=shellingman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/shellingman/shellingman)  [![Sean's Lanugages](https://github-readme-stats2-git-main-shellingmans-projects.vercel.app/api/top-langs/?username=shellingman&layout=donut&theme=vision-friendly-dark)](https://github.com/shellingman/shellingman)
 
 
 ---
